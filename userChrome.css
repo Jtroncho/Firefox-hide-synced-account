@@ -1,0 +1,18 @@
+/* Hide Mail */
+#appMenu-fxa-label2 {
+  color: red;
+  opacity: 0;
+  fill-opacity: 0;
+}
+/* Hide Mail */
+#fxa-manage-account-button {
+  color: red;
+  opacity: 0;
+  fill-opacity: 0;
+}
+/* Remote Synced Tabs */
+#PanelUI-fxa-remotetabs-deck {
+  color: red;
+  opacity: 0;
+  fill-opacity: 0;
+}
